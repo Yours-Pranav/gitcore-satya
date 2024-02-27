@@ -15,7 +15,7 @@ Home
 About
 Services
 Features
-Blog
+chill bro
 Contact Us
 
 <ion-icon name="chevron-forward-outline" aria-hidden="true"></ion-icon>
